@@ -1,9 +1,10 @@
 
-<h3 align="center">An aspiring developer and designer expanding his skills in Python and ui/ux design.</h3>
+##Bartosz Tłuczkiewicz
+An aspiring developer and designer expanding his skills in Python, ui/ux design and image pricessing. I enjoy tinkering with Arduino/Raspberry Pi as well as modding and digging into configs.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cucumbear&label=Profile%20views&color=0e75b6&style=flat" alt="cucumbear" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on my other profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bartosz-tłuczkiewicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartosz-tłuczkiewicz/" height="30" width="40" /></a>
 </p>
