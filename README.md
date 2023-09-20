@@ -2,8 +2,10 @@
 ## Bartosz Tłuczkiewicz
 An aspiring developer and designer expanding his skills in Python, ui/ux design and image pricessing. I enjoy tinkering with Arduino/Raspberry Pi as well as modding and digging into configs.
 ### Example projects
+ <!--
  ✦ Point cloud processing addon that filters groups objects based on proliferation and detects objects based on size  
  ✦ Image processing script in C++ using OpenCV to detect different types of UNO cards  
+ -->
  ✦ Adaptation of open source lua script in Tabletop Simulator  
  ✦ TBA  
  
